@@ -52,6 +52,8 @@ El análisis permitió identificar limitaciones en el diseño del experimento, e
 
 Python | Pandas | NumPy | A/B Testing | Análisis estadístico | Visualización de datos
 
+👉 [Ver proyecto](./ab-testing-project)
+
 ## 📊 Análisis de Base de Datos de Libros y Reseñas
 ### 🎯 Descripción del proyecto
 
@@ -84,6 +86,8 @@ Este análisis permite entender mejor los factores que influyen en la popularida
 ### 🛠️ Tecnologías utilizadas
 
 SQL | Análisis exploratorio | Bases de datos relacionales
+
+👉 [Ver proyecto](./sql-books-analysis)
 
 ## 🛠️ Tecnologías
 
