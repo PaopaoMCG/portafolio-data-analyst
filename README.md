@@ -9,54 +9,81 @@ A lo largo de mi trayectoria, he trabajado con información técnica y operativa
 
 ## 🎯 Enfoque
 
-💡 Análisis de datos aplicado a operaciones 
+Análisis de datos aplicado a operaciones 
 
-⚙️ Optimización de procesos
+Optimización de procesos
 
-📈 Visualización de datos
+Visualización de datos
 
-## 📊 Proyectos Destacados
-### 📌 Análisis de Experimento A/B
+#  Proyectos Destacados
 
-🔍 Objetivo:
-Evaluar el impacto de un sistema de recomendación en el comportamiento de usuarios
+## 📊 Análisis de Experimento A/B
+### 🎯 Descripción del proyecto
 
-⚠️ Problema:
-Validar si los cambios generaban mejoras reales en métricas clave
+En este proyecto evalué un experimento A/B diseñado para medir el impacto de un nuevo sistema de recomendación en el comportamiento de los usuarios y en métricas clave de conversión.
 
-💡 Lo que hice:
+El análisis se centró en validar la confiabilidad del experimento y determinar si los cambios implementados generaban mejoras reales en el desempeño del sistema.
 
-- Analicé datos de usuarios
+### 💡 Enfoque del análisis
 
-- Evalué grupos de control vs prueba
+Limpieza y validación de datos de usuarios
 
-- Detecté desbalance en el experimento
+Análisis exploratorio de métricas clave
 
-Resultado:
-Generé insights clave y detecté limitaciones que afectaban la validez del experimento
+Comparación entre grupos de control y prueba
 
-🛠️ Tecnologías:
-Python | Pandas | NumPy | A/B Testing
+Evaluación de consistencia en la asignación de usuarios
 
-### 📌 Análisis de Base de Datos con SQL
+Análisis estadístico de resultados
 
-🔍 Objetivo:
-Identificar patrones en libros, autores y reseñas
+### 📈 Principales hallazgos
 
-⚠️ Problema:
-Extraer insights de múltiples tablas relacionadas
+Se detectó un desbalance en la distribución de usuarios entre los grupos del experimento
 
-💡 Lo que hice:
+Este desbalance comprometía la validez de los resultados
 
-Construí consultas con JOIN y agregaciones
+Las diferencias observadas en métricas no podían atribuirse con certeza al cambio implementado
 
-Analicé métricas clave (ratings, reviews)
+### ✅ Impacto
 
-Resultado:
-Identifiqué tendencias en popularidad y comportamiento de usuarios
+El análisis permitió identificar limitaciones en el diseño del experimento, evitando conclusiones incorrectas y destacando la importancia de una correcta asignación de grupos en pruebas A/B. Esto contribuye a una toma de decisiones más informada y confiable.
 
-🛠️ Tecnologías:
-SQL | Análisis exploratorio | Modelado relacional
+### 🛠️ Tecnologías utilizadas
+
+Python | Pandas | NumPy | A/B Testing | Análisis estadístico | Visualización de datos
+
+## 📊 Análisis de Base de Datos de Libros y Reseñas
+### 🎯 Descripción del proyecto
+
+En este proyecto analicé una base de datos relacional de libros, autores y reseñas con el objetivo de identificar patrones de popularidad y comportamiento de usuarios.
+
+A través del uso de consultas SQL, exploré cómo variables como el número de reseñas, calificaciones promedio y frecuencia de interacción influyen en el desempeño de los libros dentro de la plataforma.
+
+### 💡 Enfoque del análisis
+
+Exploración del modelo relacional (múltiples tablas)
+
+Uso de JOIN para integrar información
+
+Cálculo de métricas clave (ratings, reviews)
+
+Identificación de tendencias en autores y libros
+
+### 📈 Principales hallazgos
+
+Los libros con mayor número de reseñas tienden a tener mayor visibilidad, independientemente de su calificación promedio
+
+Algunos autores destacan consistentemente por mantener altas calificaciones
+
+Existe una relación entre engagement de usuarios y posicionamiento de los libros
+
+### ✅ Impacto
+
+Este análisis permite entender mejor los factores que influyen en la popularidad de los libros, lo que puede apoyar decisiones en sistemas de recomendación, marketing o curaduría de contenido.
+
+### 🛠️ Tecnologías utilizadas
+
+SQL | Análisis exploratorio | Bases de datos relacionales
 
 ## 🛠️ Tecnologías
 
