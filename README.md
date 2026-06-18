@@ -1,103 +1,93 @@
 # Paola Montserrat Chang González
 
-📊 Data Analyst Junior | Python • SQL • Tableau
+📊 Analista de Datos | Python • SQL • PostgreSQL • Tableau
 
 ## 🚀 Sobre mí
-Soy Analista de Datos Junior con formación en ingeniería mecatrónica y experiencia en análisis de procesos operativos. Me enfoco en transformar datos en insights accionables que apoyen la toma de decisiones y la optimización de procesos.
 
-A lo largo de mi trayectoria, he trabajado con información técnica y operativa, lo que me ha permitido desarrollar un fuerte pensamiento analítico y una visión orientada a la resolución de problemas. Actualmente, estoy consolidando mis habilidades en análisis de datos mediante proyectos prácticos con Python, SQL y herramientas de visualización.
+Soy Analista de Datos con formación en Ingeniería Mecatrónica y experiencia en análisis de procesos operativos y datos de negocio.
+
+Me enfoco en transformar datos en información accionable mediante limpieza de datos, análisis exploratorio, consultas SQL, gestión de bases de datos y visualización de información. Disfruto resolver problemas de negocio a través de los datos y desarrollar soluciones analíticas de principio a fin que apoyen la toma de decisiones.
 
 ## 🎯 Enfoque
 
-Análisis de datos aplicado a operaciones 
-
-Optimización de procesos
-
-Visualización de datos
+- Análisis de Datos
+- Business Analytics
+- Optimización de Procesos
+- Visualización de Datos
+- Inteligencia Operativa
+- Análisis de Bases de Datos
 
 #  Proyectos Destacados
 
-## 📊 Análisis de Experimento A/B
-### 🎯 Descripción del proyecto
+## 🛍️ Análisis del Comportamiento de Compra de Clientes
+### 🎯 Descripción del Proyecto
 
-En este proyecto evalué un experimento A/B diseñado para medir el impacto de un nuevo sistema de recomendación en el comportamiento de los usuarios y en métricas clave de conversión.
+El objetivo fue identificar patrones de compra, segmentos de clientes, desempeño de productos y oportunidades de negocio a partir de información transaccional de clientes.
 
-El análisis se centró en validar la confiabilidad del experimento y determinar si los cambios implementados generaban mejoras reales en el desempeño del sistema.
+### 💡 Flujo de Trabajo
+- Limpieza y transformación de datos con Python
+- Ingeniería de variables y segmentación de clientes
+- Carga y gestión de datos en PostgreSQL
+- Consultas SQL para responder preguntas de negocio
+- Desarrollo de dashboard interactivo en Tableau
+- Elaboración de reporte con hallazgos y recomendaciones
+  
+### 📈 Principales Hallazgos
+- Los clientes masculinos generaron más del doble de ingresos que los clientes femeninos.
+- Los adultos jóvenes fueron el segmento con mayor contribución a los ingresos.
+- Los clientes suscritos no mostraron un gasto significativamente mayor que los no suscritos.
+- La mayoría de los compradores recurrentes no están inscritos en el programa de suscripción.
+- Los clientes leales representan la mayor parte de la base de clientes.
 
-### 💡 Enfoque del análisis
+### 🛠️ Tecnologías Utilizadas
 
-Limpieza y validación de datos de usuarios
+Python | Pandas | PostgreSQL | SQL | Tableau | Limpieza de Datos | EDA
 
-Análisis exploratorio de métricas clave
+## ☎️ Análisis de Eficiencia de Operadores de Telecomunicaciones
+### 🎯 Descripción del Proyecto
 
-Comparación entre grupos de control y prueba
+Análisis de desempeño de operadores de un servicio de telecomunicaciones con el objetivo de identificar operadores ineficientes mediante indicadores operativos y métricas de desempeño.
 
-Evaluación de consistencia en la asignación de usuarios
+El proyecto combinó análisis exploratorio, pruebas estadísticas, desarrollo de KPIs y visualización de resultados para apoyar la toma de decisiones operativas.
 
-Análisis estadístico de resultados
+### 💡 Flujo de Trabajo
+- Limpieza y preparación de datos
+- Análisis Exploratorio de Datos (EDA)
+- Creación de métricas y KPIs operativos
+- Evaluación de desempeño de operadores
+- Pruebas de hipótesis estadísticas
+- Desarrollo de dashboard en Tableau
+### 📈 Principales Hallazgos
+- Los operadores ineficientes presentaron tasas significativamente mayores de llamadas perdidas.
+- Los tiempos de espera elevados estuvieron asociados con un menor desempeño operativo.
+- Se identificó un grupo de operadores con bajo desempeño que fue consistente en múltiples métricas.
+- El dashboard permitió detectar rápidamente cuellos de botella y áreas de mejora operativa.
 
-### 📈 Principales hallazgos
+### 🛠️ Tecnologías Utilizadas
 
-Se detectó un desbalance en la distribución de usuarios entre los grupos del experimento
+Python | Pandas | NumPy | SQL | Tableau | Estadística | EDA
 
-Este desbalance comprometía la validez de los resultados
+## 🛠️ Habilidades Técnicas
+### Lenguajes y Bases de Datos
+- Python
+- SQL
+- PostgreSQL
+- 
+### Análisis de Datos
+- Pandas
+- NumPy
+- Análisis Exploratorio de Datos (EDA)
+- Estadística Aplicada
+- A/B Testing
+- Limpieza y Transformación de Datos
+  
+### Visualización de Datos
+- Tableau
+- Excel
 
-Las diferencias observadas en métricas no podían atribuirse con certeza al cambio implementado
-
-### ✅ Impacto
-
-El análisis permitió identificar limitaciones en el diseño del experimento, evitando conclusiones incorrectas y destacando la importancia de una correcta asignación de grupos en pruebas A/B. Esto contribuye a una toma de decisiones más informada y confiable.
-
-### 🛠️ Tecnologías utilizadas
-
-Python | Pandas | NumPy | A/B Testing | Análisis estadístico | Visualización de datos
-
-👉 [Ver proyecto](./ab-testing-project)
-
-## 📊 Análisis de Base de Datos de Libros y Reseñas
-### 🎯 Descripción del proyecto
-
-En este proyecto analicé una base de datos relacional de libros, autores y reseñas con el objetivo de identificar patrones de popularidad y comportamiento de usuarios.
-
-A través del uso de consultas SQL, exploré cómo variables como el número de reseñas, calificaciones promedio y frecuencia de interacción influyen en el desempeño de los libros dentro de la plataforma.
-
-### 💡 Enfoque del análisis
-
-Exploración del modelo relacional (múltiples tablas)
-
-Uso de JOIN para integrar información
-
-Cálculo de métricas clave (ratings, reviews)
-
-Identificación de tendencias en autores y libros
-
-### 📈 Principales hallazgos
-
-Los libros con mayor número de reseñas tienden a tener mayor visibilidad, independientemente de su calificación promedio
-
-Algunos autores destacan consistentemente por mantener altas calificaciones
-
-Existe una relación entre engagement de usuarios y posicionamiento de los libros
-
-### ✅ Impacto
-
-Este análisis permite entender mejor los factores que influyen en la popularidad de los libros, lo que puede apoyar decisiones en sistemas de recomendación, marketing o curaduría de contenido.
-
-### 🛠️ Tecnologías utilizadas
-
-SQL | Análisis exploratorio | Bases de datos relacionales
-
-👉 [Ver proyecto](./sql-books-analysis)
-
-## 🛠️ Tecnologías
-
-Lenguajes: Python | SQL
-
-Visualización: Tableau
-
-Análisis: Pandas | NumPy | EDA
-
-Herramientas: Excel | BigQuery (básico)
+### Herramientas
+- Visual Studio Code
+- BigQuery (Fundamentos)
 
 ## 📫 Contacto
 
