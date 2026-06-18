@@ -43,6 +43,8 @@ El objetivo fue identificar patrones de compra, segmentos de clientes, desempeñ
 
 Python | Pandas | PostgreSQL | SQL | Tableau | Limpieza de Datos | EDA
 
+[Ver Proyecto](https://github.com/PaopaoMCG/customer_behavior_analysis.git)
+
 ## ☎️ Análisis de Eficiencia de Operadores de Telecomunicaciones
 ### 🎯 Descripción del Proyecto
 
