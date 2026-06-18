@@ -57,6 +57,7 @@ El proyecto combinó análisis exploratorio, pruebas estadísticas, desarrollo d
 - Evaluación de desempeño de operadores
 - Pruebas de hipótesis estadísticas
 - Desarrollo de dashboard en Tableau
+- 
 ### 📈 Principales Hallazgos
 - Los operadores ineficientes presentaron tasas significativamente mayores de llamadas perdidas.
 - Los tiempos de espera elevados estuvieron asociados con un menor desempeño operativo.
