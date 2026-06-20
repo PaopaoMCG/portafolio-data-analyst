@@ -70,6 +70,8 @@ El proyecto combinó análisis exploratorio, pruebas estadísticas, desarrollo d
 
 Python | Pandas | NumPy | SQL | Tableau | Estadística | EDA
 
+[Ver proyecto](https://github.com/PaopaoMCG/telecom_operator_efficiency_analysis.git)
+
 ## 🛠️ Habilidades Técnicas
 ### Lenguajes y Bases de Datos
 - Python
